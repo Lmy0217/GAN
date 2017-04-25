@@ -1,3 +1,7 @@
 .*
 !.gitignore
 *~
+
+*.t7
+*.mat
+test.lua
