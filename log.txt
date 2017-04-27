@@ -69,3 +69,87 @@ epoch: 12
 ..accuracy 1	
 .... -13.815163166467	
 .. train G	
+.... 0.10704875358761	
+epoch: 13	
+.. train D	
+..accuracy 1	
+.... -13.815163166467	
+.. train G	
+.... 0.1024751513573	
+epoch: 14	
+.. train D	
+..accuracy 1	
+.... -13.815163166467	
+.. train G	
+.... 0.098011657047967	
+epoch: 15	
+.. train D	
+..accuracy 1	
+.... -13.815163166467	
+.. train G	
+.... 0.09446450114254	
+epoch: 16	
+.. train D	
+..accuracy 1	
+.... -13.815163166467	
+.. train G	
+.... 0.091480534539072	
+epoch: 17	
+.. train D	
+..accuracy 1	
+.... -13.815163166467	
+.. train G	
+.... 0.08881502861136	
+epoch: 18	
+.. train D	
+..accuracy 1	
+.... -13.815163166467	
+.. train G	
+.... 0.086456278885737	
+epoch: 19	
+.. train D	
+..accuracy 1	
+.... -13.815163166467	
+.. train G	
+.... 0.084470257440239	
+epoch: 20	
+.. train D	
+..accuracy 1	
+.... -13.815163166467	
+.. train G	
+.... 0.082275003092181	
+epoch: 21	
+.. train D	
+..accuracy 1	
+.... -13.815163166467	
+.. train G	
+.... 0.080339047201285	
+epoch: 22	
+.. train D	
+..accuracy 1	
+.... -13.815163166467	
+.. train G	
+.... 0.078386438776471	
+epoch: 23	
+.. train D	
+..accuracy 1	
+.... -13.815163166467	
+.. train G	
+.... 0.076603695638977	
+epoch: 24	
+.. train D	
+..accuracy 1	
+.... -13.815163166467	
+.. train G	
+.... 0.074812711613592	
+epoch: 25	
+.. train D	
+..accuracy 1	
+.... -13.815163166467	
+.. train G	
+.... 0.073116068774307	
+epoch: 26	
+.. train D	
+..accuracy 1	
+.... -13.815163166467	
+.. train G	
